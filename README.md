@@ -16,3 +16,6 @@ Then, the required libraries are listed in the `requirements.txt` file of each p
 ```bash
 pip install -r requirements.txt
 ```
+
+## Author
+Theïlo Terrisse (Visiting PhD Student), L'Ecole des Ponts ParisTech (France)
